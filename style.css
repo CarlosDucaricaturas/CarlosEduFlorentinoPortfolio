@@ -360,7 +360,7 @@ h7 {
   }
  }
  @media screen and (max-width:400px){
-   nav td{
+   nav h1{
    float: none;
    text-align: center;
    width: 100%;
