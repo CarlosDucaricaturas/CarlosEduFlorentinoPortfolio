@@ -1,17 +1,5 @@
 * 
- @media screen and (max-width:768px){
-  section,aside{
-   width: 100%;
-   padding: 0;
-  }
- }
- @media screen and (max-width:400px){
-  nav table{
-   float: none;
-   text-align: center;
-   width: 100%;
-  }
- }
+
 .background {
   min-width: ;
   display: flex;
@@ -365,3 +353,16 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
+ @media screen and (max-width:768px){
+  section,aside{
+   width: 100%;
+   padding: 0;
+  }
+ }
+ @media screen and (max-width:400px){
+   table{
+   float: none;
+   text-align: center;
+   width: 100%;
+  }
+ }
