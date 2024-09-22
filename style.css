@@ -5,7 +5,7 @@
    padding: 0;
   }
  }
- @media screen and (max-width:768px){
+ @media screen and (max-width:500px){
   nav li{
    float: none;
    text-align: center;
