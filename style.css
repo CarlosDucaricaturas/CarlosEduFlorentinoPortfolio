@@ -5,8 +5,8 @@
    padding: 0;
   }
  }
- @media screen and (max-width:500px){
-  nav li{
+ @media screen and (max-width:400px){
+  nav table{
    float: none;
    text-align: center;
    width: 100%;
