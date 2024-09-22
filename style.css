@@ -353,8 +353,8 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
- @media screen and (max-width:768px){
- .table {
+ @media screen and (max-width:400px){
+ .h1 {
    display: block;
    background-image: 100%;
     }
