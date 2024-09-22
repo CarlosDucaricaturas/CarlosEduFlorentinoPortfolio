@@ -354,9 +354,10 @@ h7 {
     margin-left: -70%;
   }
  @media screen and (max-width:768px){
-  section,body{
+  body{
    width: 100%;
    padding: 0;
+    background: 100%;
   }
  }
  @media screen and (max-width:400px){
@@ -364,5 +365,6 @@ h7 {
    float: none;
    text-align: center;
    width: 100%;
+    background: 100%;
   }
  }
