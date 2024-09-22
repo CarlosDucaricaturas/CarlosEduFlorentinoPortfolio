@@ -354,7 +354,7 @@ h7 {
     margin-left: -70%;
   }
  @media screen and (max-width:768px){
- .container {
+ .table {
    display: block;
    background-image: 100%;
     }
