@@ -354,7 +354,7 @@ h7 {
     margin-left: -70%;
   }
  @media screen and (max-width:768px){
-  section,aside{
+  section,body{
    width: 100%;
    padding: 0;
   }
