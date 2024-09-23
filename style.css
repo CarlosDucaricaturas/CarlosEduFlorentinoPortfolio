@@ -10,8 +10,8 @@
 
 }
 .background {
-  width:  1348px ;
-  height: 3300px;
+  width:  1024px ;
+  height: 768px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
