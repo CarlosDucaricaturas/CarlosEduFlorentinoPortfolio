@@ -356,16 +356,16 @@ h7 {
   }
 @media screen and (max-width: 800px){
   .menu {
-    
-    display:none;
-  }
+     margin: 0px;
+  list-style: none;
+  display: flex;
+  gap: 0px;
+  align-items:left;
+   font-size: 18px;
+ }
 }
 
-  .Eu{
-   flex-direction:row-reverse;
-   font-size: 18px;
-  }
-
+ 
  
 
 
