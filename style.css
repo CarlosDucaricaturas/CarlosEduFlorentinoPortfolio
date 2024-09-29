@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 200px){
+@media screen and (max-width: 400px){
  .menu {
     margin: -201px;
   list-style: ;
