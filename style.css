@@ -162,7 +162,7 @@ h1 {
     position: center;
     border: 10px solid rgb(255, 255, 255);
     border-left-width: 5;
-    min-width: 130px;
+    min-width: 180px;
     height: 200px;
     align-items:center;
 
@@ -369,7 +369,7 @@ h7 {
 
  .background{
   width:  590px ;
-  height: 3199px;
+  height: 6199px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
