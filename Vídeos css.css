@@ -51,5 +51,33 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
+@media screen and (max-width: 480px){
+  .menu {
+    margin: -201px;
+  list-style: ;
+  display: flex;
+  gap: 0px;
+  align-items: center;
+  font-size: 12px;
+   
+  
+   
+}
 
+ .background{
+  width:  590px ;
+  height: 6199px;
+content:'';
+background-image: url('fundo\ 2.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+opacity: 0.94;
+z-index: -1;
+ }
         
