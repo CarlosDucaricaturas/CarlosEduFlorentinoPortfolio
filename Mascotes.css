@@ -65,8 +65,8 @@ body  {
 }
 
  .background{
-  width:  590px ;
-  height: 2020px;
+  width:  620px ;
+  height: 1900px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
