@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 350px){
+@media screen and (max-width: 480px){
  .menu {
     margin: -201px;
   list-style: ;
@@ -368,8 +368,8 @@ h7 {
 }
 
  .background{
-  width:  1110px ;
-  height: 625px;
+  width:  590px ;
+  height: 6199px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
