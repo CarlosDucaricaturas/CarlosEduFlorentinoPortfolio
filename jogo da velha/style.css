@@ -8,19 +8,7 @@
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
      }
-      
-@media screen and (max-width: 480px){
-  .menu {
-    margin: -201px;
-  list-style: ;
-  display: none;
-  gap: 0px;
-  align-items: center;
-  font-size: 12px;
-   }
-    
-
-body {
+      body {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -63,3 +51,22 @@ h1 {
     font-size: 50px;
     background: white;
 }
+@media screen and (max-width: 480px){
+  .menu {
+    margin: -201px;
+  list-style: ;
+  display: none;
+  gap: 0px;
+  align-items: center;
+  font-size: 12px;
+   }
+    .body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     background-image: url(./fundo\ vovós.jpg);
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: 1020px 580px;
+    }
