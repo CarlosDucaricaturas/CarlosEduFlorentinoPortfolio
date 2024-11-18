@@ -58,7 +58,8 @@ body  {
   display: flex;
   gap: 0px;
   align-items: center;
-  font-size: 12px;
+  font-size: 30px;
+   position: center;
    
   
    
