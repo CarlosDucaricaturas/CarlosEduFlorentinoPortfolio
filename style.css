@@ -401,11 +401,11 @@ z-index: -1;
 }
 
  .body {
-            font-size: 22px;
+            font-size: 50px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
-            position: center;
-            align-items: center;
+            position: right;
+            align-items: right;
             
 }
  
