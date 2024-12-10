@@ -360,8 +360,8 @@ h7 {
   list-style: ;
   display: flex;
   gap: 0px;
-  align-items: right;
-  font-size: 30px;
+  align-items: center;
+  font-size: 80px;
   text-align: top;
   
   }
@@ -400,6 +400,7 @@ z-index: -1;
   display: flex;
 }
 
+ 
 
 
 
