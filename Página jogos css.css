@@ -12,7 +12,7 @@
 }
 .background {
   width:  1348px ;
-  height: 800px;
+  height: 870px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
@@ -52,7 +52,7 @@ body  {
         -webkit-text-stroke-width:  ;
         }
 
-        @media screen and (max-width: 480px){
+        @media screen and (max-width: 800px){
   .menu {
     margin: -201px;
   list-style: ;
