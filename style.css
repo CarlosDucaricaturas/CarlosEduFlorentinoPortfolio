@@ -1,4 +1,4 @@
-oi* 
+
  
 
 .background {
@@ -354,14 +354,14 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 750px){
+@media screen and (max-width: 320px){
  .menu {
     margin: +201px;
   list-style: ;
   display: flex;
   gap: 0px;
   align-items: center;
-  font-size: 80px;
+  font-size: 29px;
   text-align: crnter;
   
   }
