@@ -414,7 +414,7 @@ z-index: -1;
     border: 0px solid black;
     border-left-width: 5;
     min-width: 80px;
-    height: 27px;
+    height: 12px;
     align-items: center;
   }
 .h1 {
@@ -424,7 +424,7 @@ z-index: -1;
   display: flex;
   gap: 69px;
   align-items: center;
-  
+  font-size: 14px;
   }
 
 
