@@ -413,7 +413,7 @@ z-index: -1;
     position: center;
     border: 0px solid black;
     border-left-width: 5;
-    min-width: 80px;
+    min-width: 150px;
     height: 12px;
     align-items: center;
   }
