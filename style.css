@@ -417,26 +417,7 @@ z-index: -1;
     height: 90px;
     align-items: center;
   }
-.h1 {
- 
-  margin: 20px;
-  list-style: none;
-  display: flex;
-  gap: 19px;
-  align-items: right;
-  font-size: 10px;
-  }
- 
-.h3 {
-    margin: 250px;
-   align-items: center;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   text-align: center;
-   font-size: 280px;
-   color: rgb(255, 255, 255);
-   -webkit-text-stroke-color: ;
-   -webkit-text-stroke-width:  ;
-   }
+
    
 
 
