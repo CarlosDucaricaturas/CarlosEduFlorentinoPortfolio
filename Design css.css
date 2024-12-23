@@ -51,7 +51,7 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
-@media screen and (max-width: 420px){
+@media screen and (max-width: 620px){
   .menu {
     margin: -200px;
   list-style: ;
@@ -67,7 +67,7 @@ body  {
 
  .background{
   width:  640px ;
-  height: 900px;
+  height: 1000px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
