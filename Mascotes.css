@@ -51,14 +51,14 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 380px){
   .menu {
-    margin: -201px;
+    margin: +201px;
   list-style: ;
   display: flex;
   gap: 0px;
   align-items: center;
-  font-size: 12px;
+  font-size: 30px;
    
   
    
