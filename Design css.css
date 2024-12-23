@@ -53,12 +53,12 @@ body  {
         }
 @media screen and (max-width: 380px){
   .menu {
-    margin: +201px;
+    margin: -90px;
   list-style: ;
   display: flex;
   gap: 0px;
   align-items: center;
-  font-size: 60px;
+  font-size: 30px;
    position: center;
    
   
