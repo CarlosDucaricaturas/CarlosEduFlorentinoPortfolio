@@ -360,7 +360,7 @@ h7 {
   list-style: ;
   display: none;
   gap: 0px;
-  align-items: center;
+  align-items: right;
   font-size: 2px;
   text-align: crnter;
   
@@ -403,7 +403,7 @@ z-index: -1;
             font-size: 7px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
-            align-items: center;
+            align-items: right;
  
  
             
@@ -420,7 +420,16 @@ z-index: -1;
     height: 90px;
     align-items: right;
   }
-
+.h3 {
+    margin: 8px;
+   align-items: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+   font-size: 28px;
+   color: rgb(255, 255, 255);
+   -webkit-text-stroke-color: ;
+   -webkit-text-stroke-width:  ;
+}
    
 
 
