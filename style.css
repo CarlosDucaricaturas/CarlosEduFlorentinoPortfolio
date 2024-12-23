@@ -361,7 +361,7 @@ h7 {
   display: none;
   gap: 0px;
   align-items: right;
-  font-size: 8px;
+  font-size: 10px;
   text-align: crnter;
   
   }
@@ -395,7 +395,7 @@ z-index: -1;
  }
 
  .slider-content{
-  width: 820%;
+  width: 520%;
   height: 350%;
   display: flex;
 }
@@ -415,7 +415,7 @@ z-index: -1;
     border-left-width: 155;
     min-width: 150px;
     height: 90px;
-    align-items: center;
+    align-items: right;
   }
 
    
