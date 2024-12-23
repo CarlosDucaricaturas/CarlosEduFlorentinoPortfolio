@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 230px){
+@media screen and (max-width: 530px){
  .menu {
     margin: +201px;
   list-style: ;
@@ -367,7 +367,7 @@ h7 {
   }
 .background{
   width:  1330px ;
-  height: 3200px;
+  height: 3290px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
@@ -395,7 +395,7 @@ z-index: -1;
  }
 
  .slider-content{
-  width: 620%;
+  width: 820%;
   height: 350%;
   display: flex;
 }
