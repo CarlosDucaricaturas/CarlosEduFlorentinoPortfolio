@@ -51,9 +51,9 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
-@media screen and (max-width: 380px){
+@media screen and (max-width: 420px){
   .menu {
-    margin: -90px;
+    margin: -200px;
   list-style: ;
   display: flex;
   gap: 0px;
