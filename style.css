@@ -360,7 +360,7 @@ h7 {
   list-style: ;
   display: none;
   gap: 0px;
-  align-items: right;
+  align-items: center;
   font-size: 2px;
   text-align: crnter;
   
@@ -403,6 +403,9 @@ z-index: -1;
             font-size: 7px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
+            align-items: center;
+ 
+ 
             
             
     }
