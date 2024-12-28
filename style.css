@@ -382,15 +382,7 @@ z-index: -1;
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
      }      
- 
- .slider-content{
-   width: 100%;
-   height: auto;
-   display: flex;
 
-  .slide-box img{
-  width: 500%;
- }
  .background {
   min-width: ;
   display: flex;
