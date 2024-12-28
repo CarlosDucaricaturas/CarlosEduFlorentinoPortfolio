@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 700px){
   
  .background{
   width:  1330px ;
@@ -383,7 +383,7 @@ z-index: -1;
         -webkit-text-stroke-width:  ;
      }      
  . Quem Sou { 
-        margin: 80px;
+        margin: 20px;
         align-items: center;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: center;
