@@ -393,3 +393,10 @@ z-index: -1;
         -webkit-text-stroke-width:  ;
      }      
   
+.slider-content{
+   width: 800%;
+   height: auto;
+   display: flex;
+ 
+   
+}
