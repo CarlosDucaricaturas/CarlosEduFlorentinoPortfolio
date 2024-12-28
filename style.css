@@ -384,9 +384,14 @@ z-index: -1;
      }      
  
  .slider-content{
-   width: 800%;
-   height: 400%;
+   width: 100%;
+   height: auto;
    display: flex;
+
+  .slide-box img{
+  width: 500%;
+  
+  }
  }
  .background {
   min-width: ;
