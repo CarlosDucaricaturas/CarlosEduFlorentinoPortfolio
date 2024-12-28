@@ -391,3 +391,10 @@ z-index: -1;
   align-items: center;
   
  }
+    .background2 {
+    min-width: ;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    position: absolute;
+    }
