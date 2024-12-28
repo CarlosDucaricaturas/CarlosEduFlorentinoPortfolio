@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 1000px){
   
  .background{
   width:  1330px ;
@@ -382,7 +382,7 @@ z-index: -1;
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
      }      
- .Quem Sou { 
+ .h3 { 
         margin: 280px;
         align-items: center;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
