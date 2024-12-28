@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 2070px){
+@media screen and (max-width: 1020px){
   
  .background{
   width:  1330px ;
@@ -373,6 +373,7 @@ opacity: 0.94;
 z-index: -1;
  }
   .menu {
+        display: none;
         margin: 80px;
         align-items: center;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
