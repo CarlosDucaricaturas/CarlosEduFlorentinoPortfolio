@@ -383,4 +383,13 @@ z-index: -1;
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
      }  
+ .h1 {
+ 
+  margin: 90px;
+  list-style: none;
+  display: flex;
+  gap: 69px;
+  align-items: center;
+  
+ }
  
