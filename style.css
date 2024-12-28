@@ -354,7 +354,7 @@ h7 {
   #radio4:checked ~ .primeiro{
     margin-left: -70%;
   }
-@media screen and (max-width: 1070px){
+@media screen and (max-width: 2070px){
   
  .background{
   width:  1330px ;
