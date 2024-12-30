@@ -429,7 +429,7 @@ body  {
 
 h1 {
  
-  margin: 20px;
+  margin: 30px;
   list-style: none;
   display: flex;
   gap: 69px;
@@ -455,7 +455,7 @@ h1 {
    }
 
   h3 {
-    margin: 400px;
+    margin: 200px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
