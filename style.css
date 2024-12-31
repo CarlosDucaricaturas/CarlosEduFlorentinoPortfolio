@@ -354,11 +354,11 @@ h7 {
     margin-left: -70%;
   }
 
-  @media screen and (max-width: 410px){
+  @media screen and (max-width: 1000px){
  .menu {
     margin: 290px;
   list-style: ;
-  display: rows;
+  display: list;
   gap: 0px;
   align-items: center;
   font-size: 22px;
@@ -366,13 +366,14 @@ h7 {
   
   }
 h3 {
-    margin: +50px;
+    margin: 50px;
     gap: 0px;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
    justify-content:center ;
    font-size: 15px;
    color: rgb(255, 255, 255);
+   position: absolute;
 }
  
  
