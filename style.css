@@ -356,13 +356,13 @@ h7 {
 
   @media screen and (max-width: 810px){
  .menu {
-    margin: 200px;
+    margin: 290px;
   list-style: ;
   display: none;
   gap: 0px;
-  align-items: right;
+  align-items: center;
   font-size: 22px;
-  text-align: crnter;
+  text-align: center;
   
   }
 h3 {
