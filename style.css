@@ -354,6 +354,18 @@ h7 {
     margin-left: -70%;
   }
 
+  @media screen and (max-width: 810px){
+ .menu {
+    margin: 200px;
+  list-style: ;
+  display: none;
+  gap: 0px;
+  align-items: right;
+  font-size: 22px;
+  text-align: crnter;
   
+  }
+
+ 
  
 
