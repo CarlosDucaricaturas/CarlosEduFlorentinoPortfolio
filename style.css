@@ -674,7 +674,7 @@ h7 {
     display: none;
   }
   .nav-manual .manual-btn:not(:last-child), .nav-auto div:not(:last-child){
-    margin-right: 10px; 
+    margin-right: 90px; 
   }
 
   .nav-manual .manual-btn:hover{
