@@ -354,7 +354,7 @@ h7 {
     margin-left: -70%;
   }
 
-  @media screen and (max-width: 810px){
+  @media screen and (max-width: 410px){
  .menu {
     margin: 290px;
   list-style: ;
