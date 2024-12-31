@@ -454,11 +454,11 @@ h1 {
    }
 
   h3 {
-    margin: +70px;
+    margin: 70px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 40px;
+   font-size: 60px;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
@@ -674,7 +674,7 @@ h7 {
     display: none;
   }
   .nav-manual .manual-btn:not(:last-child), .nav-auto div:not(:last-child){
-    margin-right: +50px; 
+    margin-right: 50px; 
   }
 
   .nav-manual .manual-btn:hover{
