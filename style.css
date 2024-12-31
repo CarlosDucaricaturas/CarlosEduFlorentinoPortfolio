@@ -459,6 +459,7 @@ h1 {
   display: flex;
   gap: 169px;
   align-items: center;
+   font-size: 10px;
    }
    .background2 {
     min-width: ;
