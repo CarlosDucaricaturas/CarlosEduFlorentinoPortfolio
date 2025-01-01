@@ -95,4 +95,12 @@ z-index: -1;
   height: auto;
   display: flex;
 }
-
+.h1 {
+    margin: 290px;
+  list-style: ;
+  display: none;
+  gap: 0px;
+  align-items: center;
+  font-size: 22px;
+  text-align: center;
+}
