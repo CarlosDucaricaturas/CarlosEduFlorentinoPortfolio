@@ -370,13 +370,8 @@ h7 {
    width: 300%;
      height: 60vh;
 }
-   .container {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     width: 300%;
-     height: 60vh;
-    }
+   
+    
    
  .h4 {
     margin: 60px;
