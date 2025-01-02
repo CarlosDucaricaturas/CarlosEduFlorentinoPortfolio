@@ -287,7 +287,214 @@ h7 {
   display: none;
   
 
+}.container{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 100%;
+     height: 60vh;
+    }
+
+    .form_box{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    width: 400px;
+    }
+
+    .form_box .tilte{
+      padding: 24px 32px;
+      font-size: 24px;
+      border-bottom: thin solid #ccc;
+
+    }
+
+    .form_box form{
+      display: flex;
+      align-items: start;
+      flex-wrap: wrap;
+      padding: 32px;
+    }
+
+    .form_box input,
+    .form_box textarea{
+    width: calc(80% - 8px);
+    height: 48px;
+    border-radius: 8px;
+    border: thin solid #999;
+    padding-left: 16px;
+    margin-bottom: 16px;
+    font-size: 16px;
+  }
+
+  .form_box input:first-child{
+    margin-right: 16px;
 }
+
+.form_box input[name=mensagem]{
+width:100%;
+}
+
+.form_box textarea{
+  width: 100%;
+  height: 180%;
+  padding: 16px;
+}
+
+.form_boxbutton{
+  display: block;
+  border: none;
+  outline: none;
+  width: 180px;
+  height: 48px;
+  border-radius: 8px;
+  background-color :rgb(121, 63, 148);
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.form_box button:hover{
+  background-color :rgb(223, 169, 248);
+
+}
+
+h7 {
+  align-items: center;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ text-align: center;
+ font-size: 60px;
+ color:  rgb(255, 255, 255);
+ -webkit-text-stroke-color:; 
+ -webkit-text-stroke-width: 2px;
+
+
+}
+
+
+ section.slider{
+   margin: 0 auto;
+   width: 65%;
+   height: auto;
+   padding: 0 !important;
+   overflow: hidden;
+   border-radius: 40px;
+   
+ }
+ .slider-content{
+   width: 400%;
+   height: auto;
+   display: flex;
+ 
+   
+}
+
+.slider-content input{
+  display: none;
+  
+
+}
+
+.slide-box{
+   width: 25%;
+   height: auto;
+   position: relative;
+   text-align: center;
+   transition: 1s;
+   
+}
+
+.slide-box img{
+  width: 100%;
+  
+}
+
+.nav-manual, .nav-auto{
+  position: absolute;
+  width: 100%;
+  margin-top: 35%;
+  display: flex;
+  justify-content: center;
+  }
+
+  .nav-manual .manual-btn, .nav-auto div{
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.2s;
+    display: none;
+  }
+  .nav-manual .manual-btn:not(:last-child), .nav-auto div:not(:last-child){
+    margin-right: 10px; 
+  }
+
+  .nav-manual .manual-btn:hover{
+    background-color: rgb(223, 169, 248);
+  }
+
+  #radio1:checked ~ .nav-auto .auto-btn1{
+    background-color:rgb(223, 169, 248);
+  }
+
+  #radio2:checked ~ .nav-auto .auto-btn2{
+    background-color: rgb(223, 169, 248);
+  }
+
+  #radio3:checked ~ .nav-auto .auto-btn3{
+    background-color:rgb(223, 169, 248);
+  }
+
+  #radio4:checked ~ .nav-auto .auto-btn4{
+    background-color: rgb(223, 169, 248);
+  }
+  #radio1:checked ~ .primeiro{
+    margin-left: 0%;
+  }
+  #radio2:checked ~ .primeiro{
+    margin-left: -25%;
+  }
+  #radio3:checked ~ .primeiro{
+    margin-left: -50%;
+  }
+  #radio4:checked ~ .primeiro{
+    margin-left: -70%;
+  }
+
+  @media screen and (max-width: 1000px){
+ .menu {
+    margin: 290px;
+  list-style: ;
+  display: none;
+  gap: 0px;
+  align-items: center;
+  font-size: 22px;
+  text-align: center;
+  
+  }section.slider{
+   margin: 0 auto;
+   width: 65%;
+   height: auto;
+   padding: 0 !important;
+   overflow: hidden;
+   border-radius: 40px;
+   
+ }
+ .slider-content{
+   width: 400%;
+   height: auto;
+   display: flex;
+ 
+   
+}
+
+.slider-content input{
+  display: none;
+  
+
+}
+
 .slide-box{
    width: 25%;
    height: auto;
@@ -366,6 +573,8 @@ h7 {
   
   }
 h3 {
+
+h3 {
     margin: 60px;
     gap: 0px;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -421,12 +630,79 @@ h3 {
      height: 60vh;
   
     }
-   .section.slider {
-   margin: 290px;
-   width: 300%;
-   height: 60vh;
+   .section.slider{
+   margin: 0 auto;
+   width: 65%;
+   height: auto;
    padding: 0 !important;
    overflow: hidden;
    border-radius: 40px;
-   }
+   
+ }
+ .slider-content{
+   width: 400%;
+   height: auto;
+   display: flex;
+ 
+   
+}
+
+.slider-content input{
+  display: none;
+  
+
+}
+
+.slide-box{
+   width: 25%;
+   height: auto;
+   position: relative;
+   text-align: center;
+   transition: 1s;
+   
+}
+
+.slide-box img{
+  width: 100%;
+  
+}
+
+.nav-manual, .nav-auto{
+  position: absolute;
+  width: 100%;
+  margin-top: 35%;
+  display: flex;
+  justify-content: center;
+  }
+
+  .nav-manual .manual-btn, .nav-auto div{
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.2s;
+    display: none;
+  }
+  .nav-manual .manual-btn:not(:last-child), .nav-auto div:not(:last-child){
+    margin-right: 10px; 
+  }
+
+  .nav-manual .manual-btn:hover{
+    background-color: rgb(223, 169, 248);
+  }
+
+  #radio1:checked ~ .nav-auto .auto-btn1{
+    background-color:rgb(223, 169, 248);
+  }
+
+  #radio2:checked ~ .nav-auto .auto-btn2{
+    background-color: rgb(223, 169, 248);
+  }
+#radio3:checked ~ .primeiro{
+    margin-left: -50%;
+  }
+  #radio4:checked ~ .primeiro{
+    margin-left: -70%;
+  }
+ 
 
