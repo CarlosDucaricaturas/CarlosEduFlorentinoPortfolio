@@ -373,6 +373,8 @@ h3 {
    font-size: 25px;
    color: rgb(255, 255, 255);
    position: center;
+   width: 300%;
+     height: 60vh;
  
 }
    .container{
