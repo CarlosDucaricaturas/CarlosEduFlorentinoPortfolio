@@ -54,46 +54,14 @@ body  {
 @media screen and (max-width: 510px){
 
 
- .background{
-  width:  620px ;
-  height: 1600px;
-content:'';
-background-image: url('fundo\ 2.jpg');
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-opacity: 0.94;
-z-index: -1;
- }
-
- .slider {
-  display: flex;
-  flex-direction: column;
-  border-radius: 20px;
-  position: top;
-  width: 4000%;
-  margin-top: 300%;
-  display: flex;
-  justify-content: center;
-
- }
-
- .slider-content{
-  width: 720%;
-  height: auto;
-  display: flex;
+ .h1 {
+    margin: 33px;
+    gap: 0px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+   font-size: 25px;
+   color: rgb(255, 255, 255);
+   position: center;
+ 
 }
-.h1 {
-    margin: 20px;
-  list-style: ;
-  display: none;
-  gap: 0px;
-  align-items: center;
-  font-size: 15px;
-  text-align: center;
-}
+ 
