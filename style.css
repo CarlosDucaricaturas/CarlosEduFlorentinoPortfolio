@@ -375,6 +375,13 @@ h3 {
    position: center;
  
 }
+   .container{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 400%;
+     height: 60vh;
+   }
  
  
 
