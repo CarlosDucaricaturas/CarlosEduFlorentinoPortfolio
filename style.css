@@ -421,8 +421,8 @@ h3 {
      height: 60vh;
   
     }
-   .slider {
-   margin: 90px;
+   .section.slider {
+   margin: 290px;
    width: 300%;
    height: 60vh;
    padding: 0 !important;
