@@ -408,4 +408,16 @@ h7 {
      width: 300%;
      height: 60vh;
     }
+ .section.slider {
+   margin: 0 auto;
+   width: 65%;
+   height: auto;
+   padding: 0 !important;
+   overflow: hidden;
+   border-radius: 40px;
+   
+   
+ }
  
+ 
+
