@@ -424,7 +424,7 @@ h3 {
    .slider {
    margin: 0 auto;
    width: 300%;
-   height: 60;
+   height: 60vh;
    padding: 0 !important;
    overflow: hidden;
    border-radius: 40px;
