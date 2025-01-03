@@ -358,15 +358,15 @@ h7 {
   text-align: center;
   }
  h3 {
-    margin: 8px;
+    margin: 60px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 27px;
+   font-size: 33px;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 100%;
-  height: 60vh;
+  height: 30vh;
  }
 
