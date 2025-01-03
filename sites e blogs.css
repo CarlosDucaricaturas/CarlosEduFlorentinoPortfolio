@@ -52,7 +52,7 @@ body  {
         -webkit-text-stroke-width:  ;
         }
 @media screen and (max-width: 1000px){
-.background{
+background{
   width:  1000px ;
   height: 500px;
 content:'';
