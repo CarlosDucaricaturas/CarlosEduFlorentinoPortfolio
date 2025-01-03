@@ -386,7 +386,7 @@ h7 {
    -webkit-text-stroke-color:  ;
    -webkit-text-stroke-width:  ;
   width: 300%;
-  height: 40vh;
+  height: 20vh;
    }
   
    
@@ -403,12 +403,12 @@ h7 {
     
     align-items:center;
     width: 300%;
-   height: 40vh;
+   height: 20vh;
 
    }
    section.slider{
-   margin: 140;
-   width: 250%;
+   margin: 110;
+   width: 300%;
    height: 60vh;
    padding: 0 !important;
    overflow: hidden;
