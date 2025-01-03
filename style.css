@@ -391,7 +391,7 @@ h7 {
   
    
 
-   h5 table td{
+   .h5 table td{
     margin: 60px;
     font-size: 18px;
     color: rgb(223, 169, 248);
@@ -406,8 +406,8 @@ h7 {
    height: 40vh;
 
    }
-   section.slider{
-   margin: 0 auto;
+   .section.slider{
+   margin: 60;
    width: 109%;
    height: 60vh;
    padding: 0 !important;
