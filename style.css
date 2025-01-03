@@ -376,7 +376,7 @@ h7 {
      width: 300%;
      height: 70vh;
   }
-   .h4 {
+   h4 {
     margin: 60px;
     align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -391,7 +391,7 @@ h7 {
   
    
 
-   .h5 table td{
+   h5 table td{
     margin: 60px;
     font-size: 18px;
     color: rgb(223, 169, 248);
@@ -406,7 +406,7 @@ h7 {
    height: 40vh;
 
    }
-   .section.slider{
+   section.slider{
    margin: 0 auto;
    width: 309%;
    height: 60vh;
