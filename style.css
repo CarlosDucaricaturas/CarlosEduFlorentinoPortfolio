@@ -366,13 +366,13 @@ h7 {
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 380%;
+  width: 330%;
   height: 30vh;
  }
    .container{
      display: flex;
      justify-content: center;
      align-items: center;
-     width: 100%;
+     width: 330%;
      height: 60vh;
   }
