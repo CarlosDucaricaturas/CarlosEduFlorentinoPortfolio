@@ -367,7 +367,7 @@ h7 {
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 300%;
-  height: 5vh;
+  height: 1vh;
  }
    .container{
      display: flex;
@@ -386,7 +386,7 @@ h7 {
    -webkit-text-stroke-color:  ;
    -webkit-text-stroke-width:  ;
   width: 300%;
-  height: 30vh;
+  height: 40vh;
    }
   
    
@@ -403,13 +403,13 @@ h7 {
     height: 27px;
     align-items:center;
     width: 300%;
-   height: 30vh;
+   height: 40vh;
 
    }
    .section.slider{
    margin: 0 auto;
-   width: 75%;
-   height: auto;
+   width: 309%;
+   height: 60vh;
    padding: 0 !important;
    overflow: hidden;
    border-radius: 40px;
