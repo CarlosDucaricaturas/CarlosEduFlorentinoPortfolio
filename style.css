@@ -367,7 +367,7 @@ h7 {
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 300%;
-  height: 1vh;
+  height: 60vh;
  }
    .container{
      display: flex;
@@ -386,12 +386,12 @@ h7 {
    -webkit-text-stroke-color:  ;
    -webkit-text-stroke-width:  ;
   width: 300%;
-  height: 80vh;
+  height: 60vh;
    }
   
    
 
-   h5 table td{
+   h5 {
     margin: 60px;
     font-size: 18px;
     color: rgb(223, 169, 248);
