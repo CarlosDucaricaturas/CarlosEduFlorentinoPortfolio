@@ -370,7 +370,7 @@ h7 {
   height: 40vh;
  }
    .container{
-     margin: 60px;
+     margin: 90px;
      display: flex;
      justify-content: center;
      align-items: center;
@@ -415,7 +415,7 @@ h7 {
    overflow: hidden;
    border-radius: 40px;
    }
-    h6 table td{
+    h6 {
      margin: 60px;
      background-color:rgb(121, 63, 148);
     font-size: 20px;
