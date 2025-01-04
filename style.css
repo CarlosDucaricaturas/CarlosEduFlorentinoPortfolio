@@ -351,7 +351,7 @@ h7 {
  .menu {
     margin: 290px;
   list-style: ;
-  display: none;
+  display: rows;
   gap: 0px;
   align-items: center;
   font-size: 22px;
@@ -404,7 +404,7 @@ h7 {
     
     align-items:center;
     width: 300%;
-   height: 65vh;
+   height: 60vh;
 
    }
    section.slider{
