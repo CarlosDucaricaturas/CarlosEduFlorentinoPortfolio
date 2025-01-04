@@ -415,19 +415,4 @@ h7 {
    overflow: hidden;
    border-radius: 40px;
    }
-    h6 {
-     margin: 60px;
-     background-color:rgb(121, 63, 148);
-    font-size: 20px;
-    color: rgb(255, 255, 255);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: center;
-    border: 5px solid rgb(255, 255, 255);
-    border-left-width: 5;
-    min-width: 180px;
-    height: px;
-    align-items:center;
-    width: 300%;
-    height: 7vh;
-    }
     
