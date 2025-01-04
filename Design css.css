@@ -63,9 +63,9 @@ body  {
    width: 300%;
      height: 60vh;
 }
- .background {
-  width:  680px ;
-  height: 1197px;
+ .background{
+  width:  1080px ;
+  height: 700px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
