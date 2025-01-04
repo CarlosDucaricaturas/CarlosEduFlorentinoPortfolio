@@ -375,7 +375,7 @@ h7 {
      justify-content: center;
      align-items: center;
      width: 300%;
-     height: 50vh;
+     height: 30vh;
   }
    h4 {
     margin: 60px;
@@ -425,7 +425,7 @@ h7 {
     border: 5px solid rgb(255, 255, 255);
     border-left-width: 5;
     min-width: 180px;
-    height: 200px;
+    height: px;
     align-items:center;
     width: 300%;
     height: 7vh;
