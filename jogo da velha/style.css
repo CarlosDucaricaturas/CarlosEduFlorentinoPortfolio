@@ -62,14 +62,14 @@ h1 {
       
    }
     .body {
-    height: 10vh;
+    height: 6vh;
     display: flex;
     align-items: center;
     justify-content: center;
      background-image: url(./fundo\ vovós.jpg);
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 300px 110px;
-        width: 20%;
+     background-size: 260px 90px;
+        width: 15%;
   
     }
