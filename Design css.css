@@ -53,8 +53,8 @@ body  {
         }
 @media screen and (max-width: 1000px){
   background{
-  width:  680px ;
-  height: 1197px;
+  width:  580px ;
+  height: 560px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
@@ -82,7 +82,7 @@ z-index: -1;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 80%;
+  width: 50%;
   height: 10vh;
  }
  body  {
