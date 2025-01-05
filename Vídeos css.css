@@ -53,8 +53,8 @@ body  {
         }
 @media screen and (max-width: 1000px){
   .background{
-  width:  680px ;
-  height: 1197px;
+  width:  620px ;
+  height: 700px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
@@ -74,7 +74,7 @@ z-index: -1;
  h1 {
      
      
-    margin: 60px;
+    margin: 90px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
