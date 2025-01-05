@@ -53,22 +53,7 @@ body  {
         }
 
   @media screen and (max-width: 1000px){
-  .background{
-  width:  480px ;
-  height: 400px;
-content:'';
-background-image: url('fundo\ 2.jpg');
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-opacity: 0.94;
-z-index: -1;
- }
+  
           
 
   
@@ -83,8 +68,8 @@ z-index: -1;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 50%;
-  height: 60vh;
+  width: 2000%;
+  height: 70vh;
  }
  body  {
             font-size: 25px;
