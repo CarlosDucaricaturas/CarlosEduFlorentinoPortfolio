@@ -59,9 +59,10 @@ h1 {
   gap: 0px;
   align-items: center;
   font-size: 12px;
+      
    }
     .body {
-    height: 100vh;
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,4 +70,6 @@ h1 {
     background-position: center;
      background-repeat: no-repeat;
      background-size: 1020px 580px;
+        width: 100%;
+  
     }
