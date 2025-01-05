@@ -55,7 +55,7 @@ body  {
   @media screen and (max-width: 1000px){
  .background{
   width:  1220px ;
-  height: 1440px;
+  height: 1640px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
