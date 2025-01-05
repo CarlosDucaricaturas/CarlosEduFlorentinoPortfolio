@@ -55,7 +55,7 @@ body  {
   @media screen and (max-width: 1000px){
  .background{
   width:  1220px ;
-  height: 1640px;
+  height: 1680px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
@@ -84,7 +84,7 @@ z-index: -1;
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 260%;
-  height: 70vh;
+  height: 30vh;
  }
  body  {
             font-size: 25px;
