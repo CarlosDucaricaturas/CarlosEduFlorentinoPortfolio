@@ -54,7 +54,7 @@ body  {
 
   @media screen and (max-width: 1000px){
   background{
-  width:  510px ;
+  width:  480px ;
   height: 400px;
 content:'';
 background-image: url('fundo\ 2.jpg');
@@ -87,7 +87,7 @@ z-index: -1;
   height: 60vh;
  }
  body  {
-            font-size: 15px;
+            font-size: 25px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
             text-align: center;
