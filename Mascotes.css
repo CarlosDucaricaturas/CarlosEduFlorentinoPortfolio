@@ -53,14 +53,44 @@ body  {
         }
 
   @media screen and (max-width: 1000px){
-  h1 {
+  .background{
+  width:  680px ;
+  height: 1197px;
+content:'';
+background-image: url('fundo\ 2.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+opacity: 0.94;
+z-index: -1;
+ }
+          
+
+  
+ h1 {
+     
+     
     margin: 60px;
-    gap: 0px;
+   align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 95px;
+   font-size: 20px;
    color: rgb(255, 255, 255);
-   position: center;
-   width: 100%;
-     height: 20vh;
-}
+   -webkit-text-stroke-color: ;
+   -webkit-text-stroke-width:  ;
+  width: 80%;
+  height: 10vh;
+ }
+ body  {
+            font-size: 35px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(49, 48, 48); 
+            text-align: center;
+            
+ }
+   
