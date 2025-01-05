@@ -62,7 +62,7 @@ h1 {
       
    }
     .body {
-    height: 40vh;
+    height: 20vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -70,6 +70,6 @@ h1 {
     background-position: center;
      background-repeat: no-repeat;
      background-size: 800px 580px;
-        width: 60%;
+        width: 30%;
   
     }
