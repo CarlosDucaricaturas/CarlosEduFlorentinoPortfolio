@@ -64,8 +64,8 @@ h1 {
   -webkit-text-stroke-color: black;
      }
     body {
-    margin: 20px;   
-    width: 300%;
+    margin: 10px;   
+    width: 200%;
     height: 90vh;
     display: flex;
     align-items: center;
@@ -73,7 +73,7 @@ h1 {
      background-image: url(./fundo\ vovós.jpg);
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 700px 580px;
+     background-size: 600px 480px;
     }
  
 .main {
