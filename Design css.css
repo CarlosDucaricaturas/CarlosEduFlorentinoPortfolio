@@ -65,11 +65,11 @@ body  {
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 300%;
-  height: 60vh;
+  width: 350%;
+  height: 260vh;
  }
  body  {
-            font-size: 35px;
+            font-size: 75px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
             text-align: center;
