@@ -64,7 +64,8 @@ h1 {
   -webkit-text-stroke-color: black;
      }
       body {
-          width: 300%;
+        
+    width: 600%;
     height: 60vh;
     display: flex;
     align-items: center;
