@@ -63,10 +63,10 @@ h1 {
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
      }
-      body {
+      .body {
     margin: 20px;   
     width: 300%;
-    height: 60vh;
+    height: 90vh;
     display: flex;
     align-items: center;
     justify-content: center;
