@@ -54,7 +54,7 @@ body  {
 @media screen and (max-width: 1000px){
   
   
- h1 {
+ .h1 {
      
      
     margin: 260px;
@@ -65,8 +65,8 @@ body  {
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 350%;
-  height: 260vh;
+  width: 300%;
+  height: 60vh;
  }
  body  {
             font-size: 75px;
