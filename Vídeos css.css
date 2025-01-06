@@ -67,10 +67,10 @@ body  {
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 200%;
-  height: 460vh;
+  width: 300%;
+  height: 60vh;
  }
- body  {
+ .body  {
             font-size: 55px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
