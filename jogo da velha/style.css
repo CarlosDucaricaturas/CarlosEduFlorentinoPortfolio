@@ -63,7 +63,7 @@ h1 {
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
      }
-      .body {
+    body {
     margin: 20px;   
     width: 300%;
     height: 90vh;
