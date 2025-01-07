@@ -55,8 +55,8 @@ body  {
 
 
   
- h1 {
-     width: 300%;
+ .h1 {
+     width: 180%;
   height: 70vh;
      
     margin: 210px;
@@ -69,7 +69,7 @@ body  {
    -webkit-text-stroke-width:  ;
   
  }
- .body  {
+ body  {
             font-size: 80px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
