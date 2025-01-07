@@ -64,7 +64,7 @@ h1 {
   -webkit-text-stroke-color: black;
      }
     body {
-    margin: 170px;   
+    margin: 260px;   
     width: 200%;
     height: 60vh;
     display: flex;
@@ -74,7 +74,7 @@ h1 {
         margin: 480px;   
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 560px 980px;
+     background-size: 1060px 950px;
     }
  
 .main {
