@@ -71,10 +71,10 @@ h1 {
     align-items: center;
     justify-content: center;
      background-image: url(./fundo\ vovós.jpg);
-        margin: 26px;   
+        margin: 10px;   
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 760px 780px;
+     background-size: 560px 480px;
     }
  
 .main {
