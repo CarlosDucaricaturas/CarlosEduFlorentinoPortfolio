@@ -57,7 +57,7 @@ body  {
   
  h1 {
      width: 240%;
-  height: 520vh;
+  height: 80vh;
      
     margin: 20px;
    align-items: center;
@@ -77,4 +77,18 @@ body  {
   
             
  }
- 
+ background {
+  width:  1348px ;
+  height: 980px;
+content:'';
+background-image: url('fundo\ 2.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+opacity: 0.94;
+z-index: -1;
