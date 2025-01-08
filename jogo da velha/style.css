@@ -65,13 +65,13 @@ h1 {
      }
     body {
     margin: 10px;   
-    width: 200%;
+    width: 250%;
     height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
      background-image: url(./fundo\ vovós.jpg);
-        margin: 200px;   
+        margin: 150px;   
     background-position: center;
      background-repeat: no-repeat;
      background-size: 700px 480px;
