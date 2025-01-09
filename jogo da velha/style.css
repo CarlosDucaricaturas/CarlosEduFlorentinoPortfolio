@@ -64,9 +64,9 @@ h1 {
   -webkit-text-stroke-color: black;
      }
     body {
-    margin: 800px;   
+    margin: 80px;   
     width: 250%;
-    height: 60vh;
+    height: 30vh;
     display: flex;
     align-items: center;
     justify-content: center;
