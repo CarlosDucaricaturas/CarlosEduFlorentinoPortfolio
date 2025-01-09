@@ -88,7 +88,7 @@ z-index: -1;
   width: 220%;
   height: 300vh;
  }
- body  {
+ .body  {
             font-size: 12px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
