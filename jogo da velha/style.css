@@ -64,14 +64,14 @@ h1 {
   -webkit-text-stroke-color: black;
      }
     body {
-    margin: 260px;   
+    margin: 460px;   
     width: 250%;
     height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
      background-image: url(./fundo\ vovós.jpg);
-        margin: 750px;   
+        margin: 550px;   
     background-position: center;
      background-repeat: no-repeat;
      background-size: 1200px 800px;
