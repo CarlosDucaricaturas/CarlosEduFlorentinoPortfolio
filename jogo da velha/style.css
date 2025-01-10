@@ -55,7 +55,7 @@ h1 {
   
     {
     color: gold;
-    margin: 50;
+    margin: 160;
     padding: 0;
     box-sizing: border-box;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -64,9 +64,9 @@ h1 {
   -webkit-text-stroke-color: black;
      }
     body {
-    margin: 900px;   
+    margin: 160px;   
     width: 250%;
-    height: 90vh;
+    height: 20vh;
     display: flex;
     align-items: center;
     justify-content: center;
