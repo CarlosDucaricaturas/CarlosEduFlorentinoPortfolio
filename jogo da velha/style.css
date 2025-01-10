@@ -65,8 +65,8 @@ h1 {
      }
     body {
     margin: 90px;   
-    width: 70%;
-    height: 70vh;
+    width: 50%;
+    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
