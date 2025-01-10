@@ -58,7 +58,8 @@ body  {
 
   
  h1 {
-     
+     width: 120%;
+  height: 10vh;
      
     margin: 260px;
    align-items: center;
