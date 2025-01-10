@@ -77,8 +77,8 @@ body  {
             color: rgb(49, 48, 48); 
             text-align: center;
             color: rgb(223, 169, 248);
-            width: 500px;
-            height: 50px;
+            width: 500%;
+            height: 50vh;
  }
    
  body  {
