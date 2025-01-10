@@ -77,7 +77,7 @@ z-index: -1;
  h1 {
      
      
-    margin: 110px;
+    margin: 80px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
@@ -85,8 +85,8 @@ z-index: -1;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 220%;
-  height: 70vh;
+  width: 180%;
+  height: 20vh;
  }
  .body  {
             font-size: 98px;
