@@ -80,8 +80,8 @@ body  {
             
  }
  .background {
-  width:  1200px ;
-  height: 2400px;
+  width:  1280px ;
+  height: 2600px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
