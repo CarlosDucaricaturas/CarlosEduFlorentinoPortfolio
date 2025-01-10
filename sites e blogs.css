@@ -55,10 +55,10 @@ body  {
 
 
   
- h1 {
+ .h1 {
      
   width: 60%;
-  height: 40vh;
+  height: 20vh;
      
     margin: 80px;
    align-items: center;
