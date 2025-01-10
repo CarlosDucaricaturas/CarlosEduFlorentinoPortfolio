@@ -64,9 +64,9 @@ h1 {
   -webkit-text-stroke-color: black;
      }
     body {
-    margin: 90px;   
-    width: 30%;
-    height: 80vh;
+    margin: 190px;   
+    width: 20%;
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -74,7 +74,7 @@ h1 {
  
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 600px 300px;
+     background-size: 800px 400px;
     }
  
 .main {
@@ -102,8 +102,8 @@ h1 {
 }
 
 .game button {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     margin: 5px;
     cursor: pointer;
     font-size: 50px;
