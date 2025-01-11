@@ -75,21 +75,8 @@ body  {
             text-align: center;
             
  }
- texto {
-     
-  width: 120%;
-  height: 10vh;
-     
-    margin: 280px;
-   align-items: center;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   text-align: center;
-   font-size: 30px;
-   color: rgb(255, 255, 255);
-   -webkit-text-stroke-color: ;
-   -webkit-text-stroke-width:  ;
-  
- }
+ 
+   
     .background {
   width:  1348px ;
   height: 2400px;
