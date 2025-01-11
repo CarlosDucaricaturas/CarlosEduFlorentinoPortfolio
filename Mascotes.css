@@ -52,13 +52,13 @@ body  {
         -webkit-text-stroke-width:  ;
         }
 
-  @media screen and (max-width: 500px){
+  @media screen and (max-width: 1000px){
  
           
 
   
  h1 {
-     width: 220%;
+     width: 20%;
   height: 6vh;
      
     margin: 260px;
