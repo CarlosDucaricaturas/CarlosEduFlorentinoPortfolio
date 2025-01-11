@@ -73,15 +73,14 @@ body  {
   
  }
  
-   
- body  {
-            font-size: 90px;
+   body  {
+            font-size: 28px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
             text-align: center;
-            color: rgb(223, 169, 248);
             
  }
+ 
  .background {
   width:  1280px ;
   height: 2690px;
