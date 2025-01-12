@@ -58,8 +58,8 @@ body  {
 
   
  h1 {
-     width: 100%;
-  height: 50vh;
+     width:  1280px ;
+  height: 2690px;
      
     margin: 260px;
    align-items: center;
@@ -78,8 +78,10 @@ body  {
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
             text-align: center;
-            width: 100%;
-            height: 40vh;
+            
+            
+    width:  1280px ;
+  height: 2690px;
  }
  texto {
      width: 200%;
