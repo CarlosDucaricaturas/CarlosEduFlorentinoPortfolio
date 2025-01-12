@@ -55,7 +55,7 @@ body  {
 
 
   
- h1 texto {
+ h1  {
      
      
     margin: 790px;
@@ -66,8 +66,8 @@ body  {
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
-  width: 200%;
-  height: 60vh;
+  width: 250%;
+  height: 20vh;
     }
  
  .background {
