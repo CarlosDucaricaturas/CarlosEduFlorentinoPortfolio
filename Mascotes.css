@@ -58,14 +58,14 @@ body  {
 
   
  h1 {
-     width:  1280px ;
-  height: 2690px;
+     width:  200%px ;
+  height: 60vh;
      
     margin: 260px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 85px;
+   font-size: 35px;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
@@ -80,10 +80,9 @@ body  {
             text-align: center;
             
             
-    width:  1280px ;
-  height: 2690px;
+   
  }
- texto {
+ .texto {
      width: 200%;
   height: 30vh;
      
@@ -91,7 +90,7 @@ body  {
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 485px;
+   font-size: 105px;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
