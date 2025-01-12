@@ -58,16 +58,16 @@ body  {
  h1  {
      
      
-    margin: 490px;
+    margin: 290px;
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 90px;
+   font-size: 20px;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 250%;
-  height: 20vh;
+  height: 20px;
     }
  
  .background {
