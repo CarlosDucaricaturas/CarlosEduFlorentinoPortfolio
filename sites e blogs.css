@@ -67,12 +67,12 @@ body  {
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 250%;
-  height: 20px;
+  height: 2vh;
     }
  
  .background {
   width:  1348px ;
-  height: 2400px;
+  height: 24px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
