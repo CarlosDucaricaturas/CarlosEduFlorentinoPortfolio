@@ -51,39 +51,36 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 700px){
 
 
   
  h1  {
-     
-     
-    margin: 160px;
-   align-items: center;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   text-align: center;
-   font-size: 80px;
-   color: rgb(255, 255, 255);
-   -webkit-text-stroke-color: ;
-   -webkit-text-stroke-width:  ;
-  width: 190%;
-  height: 20vh;
-    }
- body  {
-     
-     
-    margin: 190px;
-   align-items: center;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   text-align: center;
-   font-size: 80px;
-   color: rgb(255, 255, 255);
-   -webkit-text-stroke-color: ;
-   -webkit-text-stroke-width:  ;
-  width: 190%;
-  height: 20vh;
- }
  
+ body  {
+            font-size: 3px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(49, 48, 48); 
+            
+            
+    }
+    a:hover {
+        color:rgb(223, 169, 248);
+     }
+     a {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+     }
+    h1 {
+        margin: 80px;
+        align-items: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        font-size:40px;
+        color: rgb(248, 248, 248);
+        -webkit-text-stroke-color: ;
+        -webkit-text-stroke-width:  ;
+        }
  
  .background {
   width:  1348px ;
