@@ -8,7 +8,10 @@
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
      }
-      body {
+    
+    
+
+body {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -46,64 +49,6 @@ h1 {
 .game button {
     width: 150px;
     height: 150px;
-    margin: 5px;
-    cursor: pointer;
-    font-size: 50px;
-    background: white;
-}
-@media screen and (max-width: 1600px){
-  
-    {
-    color: gold;
-    margin: 6;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 30PX;
-    -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: black;
-     }
-    body {
-    margin: 190px;   
-    width: 20%;
-    height: 60vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-     background-image: url(./fundo\ vovós.jpg);
- 
-    background-position: center;
-     background-repeat: no-repeat;
-     background-size: 470px 380px;
-    }
- 
-.main {
-    display: flex;
-    flex-direction: column;
-    gap: 5px ;
-    
-    }
-
-.h1 {
-    text-align: center;
-    
-    }
-
-    .h2 {
-        text-align: center;
-        
-        }
-
-
-.game{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    
-}
-
-.game button {
-    width: 90px;
-    height: 90px;
     margin: 5px;
     cursor: pointer;
     font-size: 50px;
