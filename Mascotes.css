@@ -60,7 +60,7 @@ body  {
 
  h1 {
      width: 180%;
-  height: 60px;
+  height: 60vh;
      
     margin: 260px;
    align-items: center;
@@ -75,7 +75,7 @@ body  {
  }
    body {
      width: 180%;
-  height: 60px;
+  height: 60vh;
      
     margin: 260px;
    align-items: center;
