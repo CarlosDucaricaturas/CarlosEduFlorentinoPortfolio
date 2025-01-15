@@ -51,7 +51,7 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 720px){
 
 
   
@@ -64,7 +64,7 @@ body  {
    align-items: center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   font-size: 35px;
+   font-size: 60px;
    color: rgb(255, 255, 255);
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
