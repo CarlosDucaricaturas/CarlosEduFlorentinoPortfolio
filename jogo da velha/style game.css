@@ -54,7 +54,7 @@ h1 {
     font-size: 50px;
     background: white;
 }
-@media screen and (max-width: 300px){
+@media screen and (max-width: 700px){
      {
     color: gold;
     margin: 0;
@@ -76,7 +76,7 @@ body {
      background-image: url(./fundo\ vovós.jpg);
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 600px 380px;
+     background-size: 400px 120px;
     }
  
 main {
@@ -104,7 +104,7 @@ h1 {
 }
 
 .game button {
-    width: 70px;
+    width: 30px;
     height: 60px;
     margin: 5px;
     cursor: pointer;
