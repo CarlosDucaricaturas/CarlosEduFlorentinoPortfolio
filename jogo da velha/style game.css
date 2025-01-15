@@ -54,7 +54,7 @@ h1 {
     font-size: 50px;
     background: white;
 }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 300px){
      {
     color: gold;
     margin: 0;
@@ -69,7 +69,7 @@ h1 {
     
 
 body {
-    height: 70vh;
+    height: 30vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -82,7 +82,7 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    gap: 10px ;
+    gap: 5px ;
     
     }
 
