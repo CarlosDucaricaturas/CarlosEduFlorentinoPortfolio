@@ -51,7 +51,7 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
         }
-@media screen and (max-width: 720px){
+@media screen and (max-width: 320px){
 
 
   
@@ -70,6 +70,9 @@ body  {
    -webkit-text-stroke-width:  ;
   width: 300%;
   height: 40vh;
+  position: absolute;
+  
+
  }
     a:hover {
         color:rgb(223, 169, 248);
@@ -89,7 +92,9 @@ body  {
         -webkit-text-stroke-width:  ;
          width: 100%;
          height: 60vh;
-     
+         position: absolute;
+  
+
         }
  .background {
   width:  1348px ;
