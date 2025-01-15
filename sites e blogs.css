@@ -58,12 +58,12 @@ body  {
  
  
  body  {
-            font-size: 70px;
+            font-size: 1070px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: rgb(49, 48, 48); 
-            width: 100%;
+            width: 150%;
            height: 70vh;
-            
+            margin: 160px;
     }
     a:hover {
         color:rgb(223, 169, 248);
