@@ -104,9 +104,9 @@ h1 {
 }
 
 .game button {
-    width: 70px;
+    width: 90px;
     height: 70px;
-    margin: 5px;
+    margin: 10px;
     cursor: pointer;
     font-size: 40px;
     background: white;
