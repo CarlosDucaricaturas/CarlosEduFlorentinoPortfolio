@@ -82,7 +82,7 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    gap: 5px ;
+    gap: 2px ;
     
     }
 
@@ -108,7 +108,7 @@ h1 {
 .game button {
     width: 90px;
     height: 60px;
-    margin: 17px;
+    margin: 10px;
     cursor: pointer;
     font-size: 35px;
     background: white;
