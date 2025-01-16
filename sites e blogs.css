@@ -62,8 +62,8 @@ h1 {
         color: rgb(248, 248, 248);
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
- width:150%;
- height: 120vh;
+ 
+ 
                    }
  body {
         margin: 150px;
@@ -74,13 +74,13 @@ h1 {
         color: rgb(248, 248, 248);
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
- width:150%;
- height: 120vh;
+ 
+ 
                    }
   
   
  .background {
-  width:  960px ;
+  width:  1060px ;
   height: 2800px;
 content:'';
 background-image: url('fundo\ 2.jpg');
