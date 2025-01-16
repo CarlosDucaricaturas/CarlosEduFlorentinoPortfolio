@@ -76,7 +76,7 @@ body {
      background-image: url(./fundo\ vovós.jpg);
     background-position: center;
      background-repeat: no-repeat;
-     background-size: 400px 420px;
+     background-size: 380px 420px;
     }
  
 main {
@@ -107,7 +107,7 @@ h1 {
 
 .game button {
     width: 70px;
-    height: 50px;
+    height: 65px;
     margin: 10px;
     cursor: pointer;
     font-size: 35px;
