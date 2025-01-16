@@ -76,6 +76,24 @@ body  {
         -webkit-text-stroke-color: ;
         -webkit-text-stroke-width:  ;
  width:150%;
- height: 80vh;
+ height: 100vh;
                    }
+   .background {
+  width:  1050px ;
+  height: 2800px;
+content:'';
+background-image: url('fundo\ 2.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+opacity: 0.94;
+z-index: -1;
+
+}
+       
   
