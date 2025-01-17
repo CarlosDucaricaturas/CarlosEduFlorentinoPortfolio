@@ -408,7 +408,7 @@ h7 {
 
    }
    section.slider{
-   margin: +55;
+   margin: 0 auto;
    width: 250%;
    height: 60vh;
    padding: 0 !important;
