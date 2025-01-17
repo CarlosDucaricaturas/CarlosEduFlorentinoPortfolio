@@ -56,7 +56,7 @@ body  {
        
 .background {
   width:  960px ;
-  height: 1700px;
+  height: 1300px;
 content:'';
 background-image: url('fundo\ 2.jpg');
 background-repeat: no-repeat;
@@ -86,7 +86,7 @@ z-index: -1;
    -webkit-text-stroke-color: ;
    -webkit-text-stroke-width:  ;
   width: 200%;
-  height: 150vh;
+  height: 15vh;
  }
  .body  {
             font-size: 90px;
@@ -94,7 +94,7 @@ z-index: -1;
             color: rgb(49, 48, 48); 
             text-align: center;
   width: 200%;
-  height: 150vh;
+  height: 15vh;
             
  }
    
