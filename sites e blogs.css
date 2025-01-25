@@ -52,9 +52,8 @@ body  {
         -webkit-text-stroke-width:  ;
         }
 @media screen and (max-width: 1200px){
- {
-width: 250px;
-}
+ 
+
 h1 {
         margin: 80px;
         align-items: center;
